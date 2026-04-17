@@ -41,7 +41,7 @@ The goal is to identify pollution patterns, compare pollutant levels, and visual
 ![KPI](images/kpi_pollutants.jpeg)
 
 ### AQI Category Distribution
-![AQI Category](imagesaqi_category_distribution.jpeg)
+![AQI Category](images/aqi_category_distribution.jpeg)
 
 ### Map Visualization
 ![Map](images/map_view.jpeg)
